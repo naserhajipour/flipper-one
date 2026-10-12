@@ -1,0 +1,23 @@
+# Project-wide .gitignore
+
+*.iml
+.gradle
+/local.properties
+/.idea
+/.vscode
+.DS_Store
+/build
+**/build
+/captures
+.externalNativeBuild
+.cxx
+*.class
+*.apk
+*.ap_
+*.dex
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.tgz
